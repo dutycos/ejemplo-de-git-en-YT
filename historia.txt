@@ -1,1 +1,3 @@
 cap 1: sistema control de versiones y fundamentos de github
+
+cap 2 uso basico de git 
