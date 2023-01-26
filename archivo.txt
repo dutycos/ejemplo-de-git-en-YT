@@ -2,4 +2,8 @@ heloo rama2
 dos
 cuatro
 
+estoy en la rama master 
+estoy escribiendo esto 
+para hacer un merge desde ramab
+ose git merge master
 
